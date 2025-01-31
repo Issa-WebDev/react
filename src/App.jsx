@@ -1,4 +1,4 @@
-import React, { useReducer, useState } from "react";
+import React, { useEffect, useReducer, useState } from "react";
 
 const initialValue = [];
 const todosReducer = (state, action) => {
@@ -37,6 +37,10 @@ const App = () => {
   const overTodo = (id) => {
     dispatch({ type: "OVER_TODO", payload: id });
   };
+
+  useEffect(() => {
+    localStorage.setItem("todos", JSON.stringify(todos));
+  }, [todos]);
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-white p-4">
