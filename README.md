@@ -7,22 +7,22 @@ Maîtriser Express.js et créer des API RESTful.
 Gérer les bases de données avec MongoDB (CRUD).
 Sécuriser une API avec JWT (authentification).
 📌 Plan détaillé :
-Semaine 1 :
+Semaine 1 : (Du 03 au 09 février 2025)
 ✅ Comprendre l’architecture de Node.js (Event Loop, Single Thread, Callbacks, Promises, Async/Await).
 ✅ Installer Node.js et créer son premier serveur avec http.
 ✅ Découvrir NPM et les modules Node.js.
 
-Semaine 2 :
+Semaine 2 : (Du 10 au 17 février 2025)
 ✅ Introduction à Express.js : créer une API RESTful basique.
 ✅ Routes, Middlewares, gestion des erreurs.
 ✅ Utilisation de Postman pour tester les endpoints.
 
-Semaine 3 :
+Semaine 3 : (Du 18 au 24 février 2025)
 ✅ Introduction à MongoDB : CRUD avec Mongoose.
 ✅ Organisation des fichiers et bonnes pratiques en backend.
 ✅ Création d’un projet Todo List complet en backend avec Express.js et MongoDB.
 
-Semaine 4 :
+Semaine 4 : (Du 25 février au 03 mars 2025)
 ✅ Sécurisation de l’API : Authentification JWT, gestion des tokens.
 ✅ Mise en production avec Render, Railway ou Vercel.
 ✅ Revoir et améliorer ton projet.
@@ -33,6 +33,7 @@ Semaine 4 :
 CRUD complet (ajouter, modifier, supprimer des tâches).
 Gestion des utilisateurs (inscription, connexion).
 Hébergement en ligne.
+
 📅 Mois 2 : Algo + Backend avancé
 🎯 Objectifs :
 Maîtriser les bases des algorithmes et structures de données.
@@ -90,14 +91,6 @@ Semaine 12 :
 📅 Bilan : Un récap chaque dimanche pour voir la progression.
 C’est un plan intensif, mais il te mettra à un très bon niveau en 3 mois. Tu es prêt à commencer dès demain ? 🚀
 
-
-
-
-
-
-
-
-
 Excellente question ! Ne pas perdre le frontend est super important, surtout que tu as déjà un bon niveau en React.
 
 👉 Mon conseil : Garde un lien avec le frontend, mais en mode "entretien FAANG".
@@ -120,23 +113,14 @@ Tu peux résoudre certains exercices d’algo sur LeetCode avec JavaScript pour 
 
 Ça te rassure ? 😊
 
-
-
-
-
-
-
-
-
-
-
 Ah, bien vu ! 😆 FAANG, c’est un acronyme qui représente les 5 grandes entreprises tech les plus convoitées :
 
-🔥 Facebook (Meta)
-🔥 Apple
-🔥 Amazon
-🔥 Netflix
-🔥 Google (Alphabet)
+**_FAANG _**MANGA
+🔥 Facebook (Meta) 🔥 Microsoft
+🔥 Apple 🔥 Apple
+🔥 Amazon 🔥 Nvidia
+🔥 Netflix 🔥 Google
+🔥 Google (Alphabet) 🔥 Amazon
 
 Ces boîtes sont connues pour :
 ✅ Leurs salaires élevés (des packages à 6 chiffres 💰).
@@ -149,39 +133,36 @@ En résumé : Si tu vises FAANG, tu cherches à entrer dans une des plus grosses
 
 C'est clair pour toi ? 😃
 
-
-
-
 Super ! 💥 Voici quelques astuces pour améliorer ton anglais rapidement tout en restant concentré sur tes objectifs techniques :
 
 1. Écoute active
-Podcasts : Écoute des podcasts techniques (par exemple, JavaScript Jabber, The Changelog, ou Programming Throwdown). Cela te permet de t'habituer à l'anglais technique tout en te formant.
-YouTube : Regarde des tutoriels et des conférences en anglais sur des sujets qui t’intéressent (Node.js, React, OOP, etc.). Des chaînes comme Traversy Media, Academind, ou The Net Ninja sont superbes.
+   Podcasts : Écoute des podcasts techniques (par exemple, JavaScript Jabber, The Changelog, ou Programming Throwdown). Cela te permet de t'habituer à l'anglais technique tout en te formant.
+   YouTube : Regarde des tutoriels et des conférences en anglais sur des sujets qui t’intéressent (Node.js, React, OOP, etc.). Des chaînes comme Traversy Media, Academind, ou The Net Ninja sont superbes.
 2. Lire en anglais
-Documentation officielle : Beaucoup de documentation technique est en anglais (par exemple, MDN pour JavaScript, Node.js Docs). Cela va t’aider à comprendre les termes techniques tout en développant ta compréhension de la langue.
-Blogs techniques : Suis des blogs techniques comme ceux de Dev.to, Medium, ou freeCodeCamp pour lire des articles en anglais.
+   Documentation officielle : Beaucoup de documentation technique est en anglais (par exemple, MDN pour JavaScript, Node.js Docs). Cela va t’aider à comprendre les termes techniques tout en développant ta compréhension de la langue.
+   Blogs techniques : Suis des blogs techniques comme ceux de Dev.to, Medium, ou freeCodeCamp pour lire des articles en anglais.
 3. Pratiquer avec des exercices en anglais
-LeetCode : La plupart des défis sont en anglais, donc c’est une excellente façon de renforcer à la fois tes compétences en programmation et ton vocabulaire technique.
-Codewars : Une autre plateforme qui te permet de résoudre des défis en anglais. Cela t’aidera à t’habituer à lire des descriptions en anglais tout en résolvant des problèmes.
+   LeetCode : La plupart des défis sont en anglais, donc c’est une excellente façon de renforcer à la fois tes compétences en programmation et ton vocabulaire technique.
+   Codewars : Une autre plateforme qui te permet de résoudre des défis en anglais. Cela t’aidera à t’habituer à lire des descriptions en anglais tout en résolvant des problèmes.
 4. Écrire en anglais
-Pratique le code en anglais : Lorsque tu écris du code, essaie de commenter tes solutions et de nommer tes variables en anglais. Cela renforce tes compétences techniques et linguistiques.
-Expliquer ce que tu fais : Si tu es à l’aise, essaye d’expliquer ton code en anglais à des amis ou dans un blog. Cela te permettra de pratiquer à l’oral et à l’écrit.
+   Pratique le code en anglais : Lorsque tu écris du code, essaie de commenter tes solutions et de nommer tes variables en anglais. Cela renforce tes compétences techniques et linguistiques.
+   Expliquer ce que tu fais : Si tu es à l’aise, essaye d’expliquer ton code en anglais à des amis ou dans un blog. Cela te permettra de pratiquer à l’oral et à l’écrit.
 5. Trier les ressources et les outils
-Applications de langue : Des applications comme Duolingo, Memrise, ou Anki sont super pour apprendre du vocabulaire anglais de manière ludique.
-Films et séries : Regarde des films ou des séries en anglais, avec ou sans sous-titres. Commence par des sous-titres en français, puis passe progressivement aux sous-titres en anglais.
+   Applications de langue : Des applications comme Duolingo, Memrise, ou Anki sont super pour apprendre du vocabulaire anglais de manière ludique.
+   Films et séries : Regarde des films ou des séries en anglais, avec ou sans sous-titres. Commence par des sous-titres en français, puis passe progressivement aux sous-titres en anglais.
 6. Conversations avec des anglophones
-Rejoindre des forums internationaux : Participer à des forums comme Stack Overflow, GitHub, ou des communautés sur Discord/Slack en anglais. Cela te permet d'apprendre le vocabulaire technique tout en échangeant avec d'autres développeurs.
-Language exchange : Tu peux utiliser des applications comme Tandem ou HelloTalk pour échanger avec des locuteurs natifs.
+   Rejoindre des forums internationaux : Participer à des forums comme Stack Overflow, GitHub, ou des communautés sur Discord/Slack en anglais. Cela te permet d'apprendre le vocabulaire technique tout en échangeant avec d'autres développeurs.
+   Language exchange : Tu peux utiliser des applications comme Tandem ou HelloTalk pour échanger avec des locuteurs natifs.
 7. Pratiquer l’anglais dans les entretiens
-Prépare-toi à passer des entretiens en anglais. Beaucoup de plateformes proposent des simulations d'entretiens, comme Pramp ou Interviewing.io. Cela te permet de t'entraîner à répondre aux questions techniques en anglais, dans un environnement proche de celui des FAANG.
+   Prépare-toi à passer des entretiens en anglais. Beaucoup de plateformes proposent des simulations d'entretiens, comme Pramp ou Interviewing.io. Cela te permet de t'entraîner à répondre aux questions techniques en anglais, dans un environnement proche de celui des FAANG.
 8. Immerge-toi dans l'anglais au quotidien
-Change la langue de ton ordinateur, téléphone et applications en anglais. Tu seras constamment exposé à des termes techniques et courants.
-Répondre aux messages en anglais dans des forums ou des groupes de discussion.
-Plan de 30 jours pour améliorer ton anglais :
-Semaine 1 : Écoute un podcast chaque jour + Lis un article en anglais (15-20 minutes).
-Semaine 2 : Pratique l’anglais pendant tes sessions de codage (naming de variables, commentaires en anglais).
-Semaine 3 : Regarde des vidéos/tutoriels en anglais et résous des exercices sur LeetCode.
-Semaine 4 : Pratique l’écriture en anglais : explique ce que tu fais dans un blog ou sur un forum.
-L’important est de pratiquer chaque jour. Même 15-30 minutes par jour feront une grande différence !
+   Change la langue de ton ordinateur, téléphone et applications en anglais. Tu seras constamment exposé à des termes techniques et courants.
+   Répondre aux messages en anglais dans des forums ou des groupes de discussion.
+   Plan de 30 jours pour améliorer ton anglais :
+   Semaine 1 : Écoute un podcast chaque jour + Lis un article en anglais (15-20 minutes).
+   Semaine 2 : Pratique l’anglais pendant tes sessions de codage (naming de variables, commentaires en anglais).
+   Semaine 3 : Regarde des vidéos/tutoriels en anglais et résous des exercices sur LeetCode.
+   Semaine 4 : Pratique l’écriture en anglais : explique ce que tu fais dans un blog ou sur un forum.
+   L’important est de pratiquer chaque jour. Même 15-30 minutes par jour feront une grande différence !
 
-Tu es prêt à commencer ? 
+Tu es prêt à commencer ?
